@@ -1,2 +1,2 @@
-# js-notlari
+# JS Notları
 JS Konusunda Aldığım Notlar
